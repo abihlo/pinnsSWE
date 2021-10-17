@@ -12,3 +12,5 @@ In our paper we present 4 different canonical test cases for the shallow-water e
 4) Rossby-Haurwitz wave solution
 
 Codes are provided for all four test cases. Note that test case 1 is peculiar in that a linear advection equation is solved instead of the full nonlinear shallow-water equations. Test cases 2-4 use essentially the same code for solving the shallow-water equations, with the difference being in the hyperparameters choses as well as in the visualization part of the routine.
+
+The codes have been written in TensorFlow 2.4 and ran on Google Colab.
