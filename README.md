@@ -1,6 +1,8 @@
 # Physics-informed neural networks for solving the shallow water equations on the sphere
 
-Accompanying code for the paper "Physics-informed neural networks for the shallow-water equations on the sphere", https://arxiv.org/abs/2104.00615. We propose to use a variation of physics-informed neural networks to solve the shallow-water equations on the rotating sphere. The shallow-water equations are the canonical test bed for developing novel algorithms for the dynamical core of weather and climate prediction models. Here we show that a neural network based algorithm can produce accurate solutions to the shallow-water equations in latitude-longitude coordinates.
+*Accompanying code for the paper "Physics-informed neural networks for the shallow-water equations on the sphere" by A. Bihlo and R.O. Popovych, https://arxiv.org/abs/2104.00615.* 
+
+We propose to use a variation of physics-informed neural networks to solve the shallow-water equations on the rotating sphere. The shallow-water equations are the canonical test bed for developing novel algorithms for the dynamical core of weather and climate prediction models. Here we show that a neural network based algorithm can produce accurate solutions to the shallow-water equations in latitude-longitude coordinates.
 
 In our paper we present 4 different canonical test cases for the shallow-water equations on a rotating sphere, originally proposed by Williamson et al. [J. Comput. Phys. 102, 211-224, 1992]. These test cases are:
 
